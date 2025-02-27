@@ -8,3 +8,5 @@ To use this repo, append these lines to /etc/pacman.conf:
 SigLevel = Optional TrustAll
 
 Server = https://github.com/The-LainOS-Project/lainos_repo/raw/main/X86_64/
+
+fork removes : in 2 file names so you can reliably clone the repo on windows
